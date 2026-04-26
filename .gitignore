@@ -1,0 +1,10 @@
+# Ignorar archivos objeto generados durante la compilación
+*.o
+
+# Ignorar archivos ejecutables de Windows
+*.exe
+cifrado
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
