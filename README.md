@@ -2,7 +2,7 @@
 
 **Escuela Superior de Cómputo - Instituto Politécnico Nacional** 
 **Carrera:** Ingeniería en Sistemas Computacionales
-**UA:** Internet Of Things [Grupo] 
+**UA:** Internet Of Things 6CM3 
 **Autor:** Martinez Ortiz Patricia Estefania  
 
 ---
